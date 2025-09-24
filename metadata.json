@@ -1,0 +1,5 @@
+{
+  "name": "Hertz Motor Entegre Yönetim Platformu",
+  "description": "A comprehensive management platform for Hertz Motor, handling orders, services, inventory, and company data with real-time updates and role-based access control.",
+  "requestFramePermissions": []
+}
